@@ -1,2 +1,2 @@
-#Pig Game
+# Pig Game
  Jonas Schemdtmann Javascript Course
